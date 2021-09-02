@@ -1,6 +1,3 @@
-
-# index.html
-# index.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -19,7 +16,7 @@
     <p class="texto"> Nós somos responsáveis por fazer produtos sustentáveis e inovadores, como a nossa "smart band" para hospitais, que foi desenvolvida com o mesmo propósito.
 O nosso produto vai ser uma smart band feita para os hospitais, ela será uma pulseira de informação e monitoramento, ou P.I.M. </p>
     <br><br>
-
+  
   <h2 class="titulo">Nossa Equipe</h2>
     <br>
     <h3 class="equipe">Giovanna Oliveira</h3>
@@ -27,7 +24,7 @@ O nosso produto vai ser uma smart band feita para os hospitais, ela será uma pu
     <h3 class="equipe">Matheus Ueta</h3>
 
      <h3 class="equipe">Luiza Poroca</h3>
-
+    
     <h3 class="equipe">Julia Gomes</h3>
 
     <h3 class="equipe">Nilton Pimentel</h3>
@@ -42,3 +39,5 @@ O nosso produto vai ser uma smart band feita para os hospitais, ela será uma pu
     </body>
 
 </html>
+
+
